@@ -1,0 +1,14 @@
+C:\Users\pakhr\OneDrive\Desktop\kvitto\Extra\bin\Debug\net8.0\Extra.exe
+C:\Users\pakhr\OneDrive\Desktop\kvitto\Extra\bin\Debug\net8.0\Extra.deps.json
+C:\Users\pakhr\OneDrive\Desktop\kvitto\Extra\bin\Debug\net8.0\Extra.runtimeconfig.json
+C:\Users\pakhr\OneDrive\Desktop\kvitto\Extra\bin\Debug\net8.0\Extra.dll
+C:\Users\pakhr\OneDrive\Desktop\kvitto\Extra\bin\Debug\net8.0\Extra.pdb
+C:\Users\pakhr\OneDrive\Desktop\kvitto\Extra\obj\Debug\net8.0\Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pakhr\OneDrive\Desktop\kvitto\Extra\obj\Debug\net8.0\Extra.AssemblyInfoInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\kvitto\Extra\obj\Debug\net8.0\Extra.AssemblyInfo.cs
+C:\Users\pakhr\OneDrive\Desktop\kvitto\Extra\obj\Debug\net8.0\Extra.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\kvitto\Extra\obj\Debug\net8.0\Extra.dll
+C:\Users\pakhr\OneDrive\Desktop\kvitto\Extra\obj\Debug\net8.0\refint\Extra.dll
+C:\Users\pakhr\OneDrive\Desktop\kvitto\Extra\obj\Debug\net8.0\Extra.pdb
+C:\Users\pakhr\OneDrive\Desktop\kvitto\Extra\obj\Debug\net8.0\Extra.genruntimeconfig.cache
+C:\Users\pakhr\OneDrive\Desktop\kvitto\Extra\obj\Debug\net8.0\ref\Extra.dll

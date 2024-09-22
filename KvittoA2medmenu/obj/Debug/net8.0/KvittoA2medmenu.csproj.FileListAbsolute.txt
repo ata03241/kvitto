@@ -1,0 +1,14 @@
+C:\Users\pakhr\OneDrive\Desktop\kvitto\KvittoA2medmenu\bin\Debug\net8.0\KvittoA2medmenu.exe
+C:\Users\pakhr\OneDrive\Desktop\kvitto\KvittoA2medmenu\bin\Debug\net8.0\KvittoA2medmenu.deps.json
+C:\Users\pakhr\OneDrive\Desktop\kvitto\KvittoA2medmenu\bin\Debug\net8.0\KvittoA2medmenu.runtimeconfig.json
+C:\Users\pakhr\OneDrive\Desktop\kvitto\KvittoA2medmenu\bin\Debug\net8.0\KvittoA2medmenu.dll
+C:\Users\pakhr\OneDrive\Desktop\kvitto\KvittoA2medmenu\bin\Debug\net8.0\KvittoA2medmenu.pdb
+C:\Users\pakhr\OneDrive\Desktop\kvitto\KvittoA2medmenu\obj\Debug\net8.0\KvittoA2medmenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pakhr\OneDrive\Desktop\kvitto\KvittoA2medmenu\obj\Debug\net8.0\KvittoA2medmenu.AssemblyInfoInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\kvitto\KvittoA2medmenu\obj\Debug\net8.0\KvittoA2medmenu.AssemblyInfo.cs
+C:\Users\pakhr\OneDrive\Desktop\kvitto\KvittoA2medmenu\obj\Debug\net8.0\KvittoA2medmenu.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\kvitto\KvittoA2medmenu\obj\Debug\net8.0\KvittoA2medmenu.dll
+C:\Users\pakhr\OneDrive\Desktop\kvitto\KvittoA2medmenu\obj\Debug\net8.0\refint\KvittoA2medmenu.dll
+C:\Users\pakhr\OneDrive\Desktop\kvitto\KvittoA2medmenu\obj\Debug\net8.0\KvittoA2medmenu.pdb
+C:\Users\pakhr\OneDrive\Desktop\kvitto\KvittoA2medmenu\obj\Debug\net8.0\KvittoA2medmenu.genruntimeconfig.cache
+C:\Users\pakhr\OneDrive\Desktop\kvitto\KvittoA2medmenu\obj\Debug\net8.0\ref\KvittoA2medmenu.dll
